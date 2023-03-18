@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://cdn.discordapp.com/attachments/996815021109674054/1078684608360632361/icons8-information.gif">
-Merhaba, ben lera trademark 🐍(pytobn değil!!!)</h1>
+Merhaba, ben lera trademark 🐍(python değil!!!)</h1>
 <p align="center">ben çok iyi pro program yaparım</p>
 <p align="center"><b>beni stalklamak istiyorsan :</b></p>
 <p align="center">
