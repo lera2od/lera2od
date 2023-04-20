@@ -15,27 +15,9 @@ Merhaba, ben lera trademark 🐍(pytobn değil!!!)</h1>
 2. HTML
 3. CSS
 4. JS
-5. JAVA
-6. KOTLIN
 7. PYTHON
-8. C
-9. C#
-10. C++
-11. OBJECTIVE C
-12. HOLY C
-13. SWIFT
-14. BASH
-15. SH
-16. DEEZNUTS
-17. GIT
 18. SQL
-19. NON-SQL
-20. NaN-SQL
-21. CMD
-22. TeRminal
 23. LUA
-24. RUST(facepunchın yaptigi)
-25. RUST(fr)===D
 
 ### Projelerim
 ---
@@ -46,3 +28,4 @@ Merhaba, ben lera trademark 🐍(pytobn değil!!!)</h1>
 5. LeraNet 3
 6. MakarenaEvent
 7. MakarenaHaber
+8. Leravel
