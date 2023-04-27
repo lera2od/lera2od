@@ -12,8 +12,8 @@ Merhaba, ben lera trademark 🐍(pytobn değil!!!)</h1>
 ### Projelerim
 ---
 1. Leravel
-2. LeraNet 1/2/2-OLD/3
-3. MakarenaEvent/MakarenaHaber
-4. Lera Launcher/Lera Downloader
+2. LeraNet 1 / 2 / 2-OLD / 3
+3. MakarenaEvent / MakarenaHaber
+4. Lera Launcher / Lera Downloader
 
-Kodladığım kodlama dilleri PHP HTML CSS JS PYTHON SQL LUA
+Kodladığım kodlama dilleri: ***PHP***, ***CSS***, **HTML**, **SQL**, *JS*, LUA, PYTHON
