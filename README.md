@@ -9,23 +9,11 @@ Merhaba, ben lera trademark 🐍(pytobn değil!!!)</h1>
   <a href="http://leranet.net" align="center"><img src="https://cdn.discordapp.com/attachments/996815021109674054/1086377252679335936/logo36.png" width="25%"></a>
 </p>
 
-### Kodladığım kodlama dilleri
----
-1. PHP
-2. HTML
-3. CSS
-4. JS
-7. PYTHON
-18. SQL
-23. LUA
-
 ### Projelerim
 ---
-1. Lera Launcher
-2. LeraNet 1
-3. LeraNet 2
-4. LeraNet 2-OLD
-5. LeraNet 3
-6. MakarenaEvent
-7. MakarenaHaber
-8. Leravel
+1. Leravel
+2. LeraNet 1/2/2-OLD/3
+3. MakarenaEvent/MakarenaHaber
+4. Lera Launcher/Lera Downloader
+
+Kodladığım kodlama dilleri PHP HTML CSS JS PYTHON SQL LUA
